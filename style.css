@@ -149,6 +149,7 @@ body {
 
 .lineup li {
   margin-bottom: 24px;
+  list-style-type: none;
 }
 
 .scroll-to {
